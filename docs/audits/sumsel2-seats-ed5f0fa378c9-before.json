@@ -1,0 +1,618 @@
+{
+  "manifest": {
+    "electionYear": 2024,
+    "contestType": "dprd_provinsi",
+    "constituencyId": 5038,
+    "constituencyCode": "160002",
+    "seatCount": 7,
+    "inputReportId": 11643189,
+    "comparisonReportId": 1811233,
+    "candidateCrossCheckReportId": 11643498,
+    "rosterCount": 118,
+    "rulesUrl": "https://jdih.kpu.go.id/data/data_pkpu/2024pkpu006.pdf",
+    "officialDecision": {
+      "title": "Keputusan KPU Provinsi Sumatera Selatan Nomor 74 Tahun 2024",
+      "date": "2024-05-28",
+      "url": "https://jdih.kpu.go.id/kepkpuprov/download/103229",
+      "page": 6,
+      "completeOfficialList": true
+    },
+    "winners": [
+      {
+        "sourceKey": "119206",
+        "partyBallot": 2,
+        "candidateBallot": 2,
+        "name": "Hj. Zaitun, S.H., M.Kn",
+        "votes": 25688,
+        "officialListNumber": 1
+      },
+      {
+        "sourceKey": "122698",
+        "partyBallot": 3,
+        "candidateBallot": 2,
+        "name": "Ir. H. Zulfikri Kadir",
+        "votes": 14014,
+        "officialListNumber": 2
+      },
+      {
+        "sourceKey": "126189",
+        "partyBallot": 4,
+        "candidateBallot": 1,
+        "name": "Muhammad Yansuri, S.I.P",
+        "votes": 17498,
+        "officialListNumber": 3
+      },
+      {
+        "sourceKey": "129681",
+        "partyBallot": 5,
+        "candidateBallot": 1,
+        "name": "H. Nopianto, S.Sos., M.M.",
+        "votes": 41589,
+        "officialListNumber": 4
+      },
+      {
+        "sourceKey": "140158",
+        "partyBallot": 8,
+        "candidateBallot": 2,
+        "name": "H. M. Anwar Al Syadat, S.Si., M.Si",
+        "votes": 22921,
+        "officialListNumber": 5
+      },
+      {
+        "sourceKey": "154125",
+        "partyBallot": 12,
+        "candidateBallot": 1,
+        "name": "Fajar Febriansyah, S.T., M.I.Kom",
+        "votes": 23879,
+        "officialListNumber": 6
+      },
+      {
+        "sourceKey": "161110",
+        "partyBallot": 14,
+        "candidateBallot": 2,
+        "name": "Tamtama",
+        "votes": 23251,
+        "officialListNumber": 7
+      }
+    ]
+  },
+  "preview": {
+    "constituencyId": 5038,
+    "candidateCount": 118,
+    "elected": 7,
+    "notElected": 111,
+    "assignments": [
+      {
+        "seatNumber": 1,
+        "partyId": 22,
+        "divisor": 1,
+        "numerator": 80338,
+        "candidateId": 322104,
+        "name": "Hj. Zaitun, S.H., M.Kn"
+      },
+      {
+        "seatNumber": 2,
+        "partyId": 28,
+        "divisor": 1,
+        "numerator": 58530,
+        "candidateId": 333784,
+        "name": "H. M. Anwar Al Syadat, S.Si., M.Si"
+      },
+      {
+        "seatNumber": 3,
+        "partyId": 25,
+        "divisor": 1,
+        "numerator": 57722,
+        "candidateId": 328948,
+        "name": "H. Nopianto, S.Sos., M.M."
+      },
+      {
+        "seatNumber": 4,
+        "partyId": 24,
+        "divisor": 1,
+        "numerator": 55652,
+        "candidateId": 326661,
+        "name": "Muhammad Yansuri, S.I.P"
+      },
+      {
+        "seatNumber": 5,
+        "partyId": 23,
+        "divisor": 1,
+        "numerator": 49701,
+        "candidateId": 324377,
+        "name": "Ir. H. Zulfikri Kadir"
+      },
+      {
+        "seatNumber": 6,
+        "partyId": 34,
+        "divisor": 1,
+        "numerator": 49020,
+        "candidateId": 342798,
+        "name": "Tamtama"
+      },
+      {
+        "seatNumber": 7,
+        "partyId": 32,
+        "divisor": 1,
+        "numerator": 43654,
+        "candidateId": 339445,
+        "name": "Fajar Febriansyah, S.T., M.I.Kom"
+      }
+    ],
+    "fingerprint": "ed5f0fa378c93518cf09ed7d757912ebdfad9b74cb6b88038934302acfd81b7c"
+  },
+  "previousCandidateStatuses": [
+    {
+      "id": 319818,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 319819,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 319820,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 319821,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 319822,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 319823,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 319824,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 322103,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 322104,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 322105,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 322106,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 322107,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 322108,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 322109,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 324376,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 324377,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 324378,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 324379,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 324380,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 324381,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 324382,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 326661,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 326662,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 326663,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 326664,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 326665,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 326666,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 326667,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 328948,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 328949,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 328950,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 328951,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 328952,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 328953,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 328954,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 331073,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 331074,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 331075,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 331076,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 331077,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 332197,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 332198,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 332199,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 332200,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 332201,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 332202,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 333783,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 333784,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 333785,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 333786,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 333787,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 333788,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 333789,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 335848,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 335849,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 335850,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 335851,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 335852,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 335853,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 335854,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 337017,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 337018,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 337019,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 337020,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 337021,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 337022,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 337023,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 338468,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 338469,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 338470,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 338471,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 339445,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 339446,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 339447,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 339448,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 339449,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 339450,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 339451,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 341518,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 341519,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 341520,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 341521,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 341522,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 341523,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 341524,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 342797,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 342798,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 342799,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 342800,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 342801,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 342802,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 342803,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 344910,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 344911,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 344912,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 344913,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 344914,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 344915,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 346405,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 346406,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 346407,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 346408,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 346409,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 346410,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 346411,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 348464,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 348465,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 348466,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 348467,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 348468,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 348469,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 348470,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 350385,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 350386,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 350387,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 350388,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 350389,
+      "electedStatus": "unknown"
+    },
+    {
+      "id": 350390,
+      "electedStatus": "unknown"
+    }
+  ]
+}

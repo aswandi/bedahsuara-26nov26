@@ -1,0 +1,28 @@
+{
+  "electionYear": 2024,
+  "contestType": "dprd_provinsi",
+  "constituencyId": 5038,
+  "constituencyCode": "160002",
+  "seatCount": 7,
+  "inputReportId": 11643189,
+  "comparisonReportId": 1811233,
+  "candidateCrossCheckReportId": 11643498,
+  "rosterCount": 118,
+  "rulesUrl": "https://jdih.kpu.go.id/data/data_pkpu/2024pkpu006.pdf",
+  "officialDecision": {
+    "title": "Keputusan KPU Provinsi Sumatera Selatan Nomor 74 Tahun 2024",
+    "date": "2024-05-28",
+    "url": "https://jdih.kpu.go.id/kepkpuprov/download/103229",
+    "page": 6,
+    "completeOfficialList": true
+  },
+  "winners": [
+    { "sourceKey": "119206", "partyBallot": 2, "candidateBallot": 2, "name": "Hj. Zaitun, S.H., M.Kn", "votes": 25688, "officialListNumber": 1 },
+    { "sourceKey": "122698", "partyBallot": 3, "candidateBallot": 2, "name": "Ir. H. Zulfikri Kadir", "votes": 14014, "officialListNumber": 2 },
+    { "sourceKey": "126189", "partyBallot": 4, "candidateBallot": 1, "name": "Muhammad Yansuri, S.I.P", "votes": 17498, "officialListNumber": 3 },
+    { "sourceKey": "129681", "partyBallot": 5, "candidateBallot": 1, "name": "H. Nopianto, S.Sos., M.M.", "votes": 41589, "officialListNumber": 4 },
+    { "sourceKey": "140158", "partyBallot": 8, "candidateBallot": 2, "name": "H. M. Anwar Al Syadat, S.Si., M.Si", "votes": 22921, "officialListNumber": 5 },
+    { "sourceKey": "154125", "partyBallot": 12, "candidateBallot": 1, "name": "Fajar Febriansyah, S.T., M.I.Kom", "votes": 23879, "officialListNumber": 6 },
+    { "sourceKey": "161110", "partyBallot": 14, "candidateBallot": 2, "name": "Tamtama", "votes": 23251, "officialListNumber": 7 }
+  ]
+}

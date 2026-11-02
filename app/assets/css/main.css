@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bs-navy: #0b1b3a;
+  --bs-red: #d7263d;
+  --bs-gold: #f2b134;
+  --bs-bg: #f5f7fb;
+}
+
+body {
+  @apply bg-[var(--bs-bg)] text-slate-800 antialiased;
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Animasi masuk untuk card/section/header */
+@keyframes bs-rise {
+  from { opacity: 0; transform: translateY(18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes bs-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.bs-card {
+  @apply rounded-2xl bg-white shadow-sm ring-1 ring-slate-200/70 transition duration-300;
+  animation: bs-rise 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+.bs-card:hover { @apply -translate-y-1 shadow-xl; }
+.bs-hero { animation: bs-fade 0.8s ease both; }
+.bs-stagger > * { animation: bs-rise 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+.bs-stagger > *:nth-child(1) { animation-delay: .05s }
+.bs-stagger > *:nth-child(2) { animation-delay: .12s }
+.bs-stagger > *:nth-child(3) { animation-delay: .19s }
+.bs-stagger > *:nth-child(4) { animation-delay: .26s }
+.bs-stagger > *:nth-child(5) { animation-delay: .33s }
+.bs-stagger > *:nth-child(6) { animation-delay: .40s }
+
+@media (prefers-reduced-motion: reduce) {
+  .bs-card, .bs-hero, .bs-stagger > * { animation: none !important; }
+  .bs-card:hover { transform: none; }
+}
